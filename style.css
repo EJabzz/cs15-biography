@@ -1,0 +1,22 @@
+.Education-Section{
+    max-width: 900px;
+    text-align: justify;
+    margin: 30px;
+}
+
+.Education-Section ul{
+    word-spacing: -0.1em;
+    text-align: justify;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.Goals-Section{
+    max-width: 900px;
+    text-align: justify;
+    margin: 30px;
+}
+
+.Goals-Section ul{
+    text-align: justify;
+}
